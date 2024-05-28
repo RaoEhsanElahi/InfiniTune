@@ -1,4 +1,3 @@
-````markdown
 # InfiniTune
 
 Welcome to InfiniTune, a groundbreaking tool developed by students at GIKI, designed to automatically uncover optimal configurations for a DBMS's knobs. InfiniTune's unique feature includes a feedback loop mechanism, enabling the model to continuously learn and enhance its tuning capabilities as it interacts with databases. This not only streamlines the knob tuning process of a DBMS for individuals lacking specialized knowledge in database administration but also ensures that InfiniTune becomes progressively more proficient over time, refining its tuning process with each iteration.
@@ -13,7 +12,7 @@ Welcome to InfiniTune, a groundbreaking tool developed by students at GIKI, desi
   brew update
   brew install python3
   ```
-````
+
 
 ### Installation Steps
 
@@ -132,7 +131,3 @@ Welcome to InfiniTune, a groundbreaking tool developed by students at GIKI, desi
    You will be prompted to enter your database name and related details such as threads and clients. After entering the required information, the model will tune your database, and the final knob configurations will be installed in your PostgreSQL.
 
 Now you're all set to optimize your DBMS configurations effortlessly with InfiniTune! If you encounter any issues or have feedback, feel free to reach out.
-
-```
-
-```
